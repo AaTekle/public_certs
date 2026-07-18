@@ -1,3 +1,3 @@
 ## READ
-* Collection of certifications I have earned from platforms that do not offer automatic certificate hosting
+* Repo of certifications I've earned from platforms that don't offer certification hosting
 * The certificates are hosted here for accessibility
